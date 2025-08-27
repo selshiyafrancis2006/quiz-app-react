@@ -1,5 +1,4 @@
-# quiz-app-react
-A fast and responsive quiz application built with React.js and Vite, featuring dynamic questions and real-time score tracking.# Quiz App
+# Quiz App
 
 A modern, interactive Quiz App built with **React** and **Vite**, providing a clean and responsive interface for multiple-choice quizzes.
 
