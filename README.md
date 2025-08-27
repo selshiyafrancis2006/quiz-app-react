@@ -1,17 +1,34 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # quiz-app-react
-A fast and responsive quiz application built with React.js and Vite, featuring dynamic questions and real-time score tracking.
->>>>>>> bda0bdc1a7e69fb17a2e09f80bdb6baaf1646b05
+A fast and responsive quiz application built with React.js and Vite, featuring dynamic questions and real-time score tracking.# Quiz App
+
+A modern, interactive Quiz App built with **React** and **Vite**, providing a clean and responsive interface for multiple-choice quizzes.
+
+---
+
+## Features
+- Multiple-choice quizzes with dynamic scoring
+- Responsive and minimalistic design
+- Modular React component structure
+
+---
+
+## Tech Stack
+- React, Vite, JavaScript (ES7+), CSS
+- VS Code with ES7+ snippets, Live Server, Thunder Client
+
+---
+
+## Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/selshiyafrancis2006/quiz-app-react.git
+
+# Navigate to project folder
+cd quiz-app-react
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
